@@ -28,7 +28,7 @@
         "ezsystems/ezplatform-user": "dev-symfony4 as 2.0.x-dev",
         "ezsystems/ezpublish-kernel": "dev-symfony4 as 8.0.x-dev",
         "ezsystems/repository-forms": "dev-symfony4 as 3.0.x-dev",
-        "ezsystems/ezplatform-rest": "1.0@dev",
+        "ezsystems/ezplatform-rest": "dev-symfony4 as 1.0.x-dev",
         "friendsofsymfony/jsrouting-bundle": "^2.3",
         "knplabs/knp-menu-bundle": "^2.2",
         "php-http/guzzle6-adapter": "^2.0",
