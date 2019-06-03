@@ -114,7 +114,8 @@
         "preferred-install": {
             "ezsystems/*": "dist"
         },
-        "sort-packages": true
+        "sort-packages": true,
+        "bin-dir": "bin/"
     },
     "extra": {
         "symfony": {
