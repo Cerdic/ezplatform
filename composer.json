@@ -97,8 +97,7 @@
             "assets:install %PUBLIC_DIR%": "symfony-cmd",
             "bazinga:js-translation:dump %PUBLIC_DIR%/assets --merge-domains": "symfony-cmd",
             "yarn install": "script",
-            "EzSystems\\EzPlatformEncoreBundle\\Composer\\ScriptHandler::compileAssets": "php-script",
-            "bin/security-checker security:check": "php-script",
+            "ezplatform:encore:compile": "symfony-cmd",
             "security-checker security:check": "script"
         },
         "post-install-cmd": [
