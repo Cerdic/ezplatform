@@ -24,7 +24,6 @@ FROM nginx:stable as web-multilayers
 
 COPY bin/vhost.sh /var/www/bin/vhost.sh
 COPY doc/nginx/vhost.template /var/www/doc/nginx/vhost.template
-RUN chmod +x /var/www/bin/vhost.sh
 
 # Auto generated assets
 COPY --from=web-build /var/www/public/bundles /var/www/public/bundles
