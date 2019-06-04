@@ -68,7 +68,8 @@
         "symfony/debug-pack": "^1.0",
         "symfony/maker-bundle": "^1.0",
         "symfony/web-server-bundle": "^4.2",
-        "liuggio/fastest": "^1.6"
+        "liuggio/fastest": "^1.6",
+        "phpunit/phpunit": "^6.5.13"
     },
     "conflict": {
         "symfony/symfony": "*"
