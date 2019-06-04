@@ -120,8 +120,7 @@
     },
     "extra": {
         "symfony": {
-            "allow-contrib": false,
-            "require": "4.2.*"
+            "allow-contrib": true
         },
         "branch-alias": {
             "dev-master": "3.0.x-dev"
