@@ -65,11 +65,11 @@
         "bex/behat-screenshot": "^1.2",
         "ezsystems/behat-screenshot-image-driver-cloudinary": "^1.1@dev",
         "ezsystems/behatbundle": "dev-symfony4 as 7.0.x-dev",
+        "liuggio/fastest": "^1.6",
         "symfony/debug-pack": "^1.0",
         "symfony/maker-bundle": "^1.0",
-        "symfony/web-server-bundle": "^4.2",
-        "liuggio/fastest": "^1.6",
-        "phpunit/phpunit": "^6.5.13"
+        "symfony/test-pack": "^1.0",
+        "symfony/web-server-bundle": "^4.2"
     },
     "conflict": {
         "symfony/symfony": "*"
